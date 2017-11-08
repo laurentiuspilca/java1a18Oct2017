@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nume
+comment0.target=void\ setNume(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=varsta
+comment2.target=void\ setVarsta(int)
+comment3.params=
+comment3.target=int\ getVarsta()
+comment4.params=dead
+comment4.target=void\ setDead(boolean)
+comment5.params=
+comment5.target=boolean\ isDead()
+numComments=6

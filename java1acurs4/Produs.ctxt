@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nume\ pret
+comment0.target=Produs(java.lang.String,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=
+comment2.target=double\ getPret()
+numComments=3

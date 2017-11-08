@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=produse
+comment0.target=Magazin(Produs[])
+comment1.params=
+comment1.target=Produs[]\ getProduse()
+comment2.params=produse
+comment2.target=Produs[]\ copiereProduse(Produs[])
+numComments=3
